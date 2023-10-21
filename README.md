@@ -1,4 +1,4 @@
-
+![logo](https://i.pinimg.com/originals/cd/fd/a4/cdfda49dd7071ec1623e87f55943ab3e.gif)
 <h1 align="center">Hi 👋, I'm Krishna Handa</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
